@@ -2,7 +2,7 @@
 
 • Student at **UMass Lowell** </br>
 • Currently studying **Computer Science** 👨🏻‍💻</br> 
-• Fun fact: I'm the photo guy  📷</br>
+• Fun fact: I love photography  📷</br>
 • 📫 How to reach me: Sowndaryan_Jayaprakashanand@student.uml.edu
 
 
