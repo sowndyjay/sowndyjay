@@ -53,7 +53,7 @@ EasyDoc is a full-stack web application designed to solve the critical issue of 
 
 
 **[Link to Full Project Repository]**
-Project Link: [[https://github.com/your-username/EasyDoc](https://github.com/sowndyjay/hellodoctor)]
+Project Link: [https://github.com/sowndyjay/hellodoctor]
 
 
 
