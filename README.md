@@ -1,90 +1,71 @@
-## Hello, my name is Sowndy 👋
+# Hi, I'm Sowndaryan (Sowndy) Jayaprakash Anand 👋
 
-• Student at **UMass Lowell** </br>
-• Currently studying **Computer Science** 👨🏻‍💻</br> 
-• Fun fact: I love photography  📷</br>
-• 📫 How to reach me: Sowndaryan_Jayaprakashanand@student.uml.edu
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sowndyjay)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/sowndyjay)
+[![Email](https://img.shields.io/badge/Email-sowndaryan21%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sowndaryan21@gmail.com)
 
-## Skills and Technologies
+🎓 **Computer Science B.S. ('27) & M.S. Thesis Track ('28)** at **UMass Lowell**  
+🔬 **Undergraduate Research Assistant** at the **Machine Intelligence & Data Analytics Lab (MIDAS)**  
+💼 Incoming / Former **Software Engineer Co-Op** at **Fresenius Medical Care**  
+🏛️ **President** of the **South Asian Student Association (SASA)** at UMass Lowell  
+⚡ **Fun Fact:** Big photography enthusiast 📷
 
-* **Languages**: Java, Python, C/C++, SQL (Postgres), JavaScript
-* **Technologies**: .NET, React.js, Node.js, Express.js
-* **Databases**: MongoDB, PostgreSQL
-* **Libraries**: pandas, NumPy, Tailwind, Scikit-learn, Tensorflow, Keras
+---
 
- ## ✨ Featured Project: Country Public Service Delivery Quality Prediction
+## 🛠️ Technical Toolkit
 
-### Project Overview
+- **Languages:** Java, Python, C/C++, C#, JavaScript, SQL, HTML/CSS
+- **AI & Machine Learning:** PyTorch, TensorFlow, Keras, Scikit-learn, Embodied AI, Azure OpenAI, Ollama, Pandas, NumPy, MATLAB Deep Learning Toolbox
+- **Backend & Frameworks:** Spring Boot, Apache Kafka, Apache Camel, .NET 8, Node.js, Express.js, Microsoft Teams AI SDK
+- **Frontend & Cloud:** React.js, AWS (Lambda, S3, DynamoDB, AppSync, Cognito, CDK), GraphQL
+- **Databases & DevOps:** PostgreSQL, MongoDB, Docker, Git, Isaac Sim, CUDA, SonarQube
 
-This project develops a robust **Machine Learning Regression model** to accurately predict a country's **"Delivery Quality"** – the effectiveness of its public services – using socio-economic indicators from the World Happiness Report dataset. The aim is to provide actionable insights for improving governance and public service provision worldwide.
+---
 
-### Key Features & Results
+## 🔬 Featured Research & Publications
 
-* **Predictive Modeling:** Developed a **Random Forest Regressor** to predict country "Delivery Quality," a supervised regression task.
-* **Robust Pipeline:** Implemented a comprehensive **ML pipeline** including data cleaning (NaN imputation), advanced **outlier treatment (winsorization)**, and rigorous validation via **K-Fold Cross-Validation**.
-* **High Accuracy:** Achieved exceptional performance with an **R² score of 0.964** and a low **MSE of 0.037** on unseen data, validated by an ideal residual plot.
-* **Key Insights:** Identified `Democratic Quality` as the most influential predictor, highlighting its strong correlation with public service effectiveness.
+### 🏛️ [Empirical Analysis of Multi-Floor 3D Scene Generation Using Open-Weight Models](https://github.com/sowndyjay)
+*Accepted to the **IEEE MIT URTC Conference** (Poster Track)*
+- **Open-Weight 3D Pipeline:** Engineered an open-source, local 3D scene generation pipeline (OWP) based on MANSION, replacing costly closed cloud APIs with local open-weight LLMs (Gemma-4 12B via Ollama).
+- **Physical Validity & Optimization:** Outperformed closed-cloud baselines, cutting normalized 3D collisions by up to **39.5%** and out-of-bound errors by up to **25.0%** on consumer hardware.
+- **Grants:** Secured **$10k+** in research grants for scalable synthetic data generation in Embodied AI.
 
-### Technologies Used
+---
 
-Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, SciPy.
+## 🚀 Highlighted Projects
 
-### Getting Started
+### 🎧 [Hearing Aid Background Noise Suppression Model](https://github.com/sowndyjay)
+*MATLAB, Keras, NumPy, Pandas*
+- Engineered a deep learning model to isolate speech and suppress background noise from hearing aid audio streams.
+- Converted raw audio waveforms into spectrograms using **Short-Time Fourier Transform (STFT)** and trained an optimized **hybrid CNN-LSTM architecture**.
+- Improved overall Signal-to-Noise Ratio (SNR) by **10.26 dB**.
 
-To explore the full project details, code, and methodology, please visit the main repository:
+---
 
-**[Link to Full Project Repository]**
-*((https://github.com/sowndyjay/AIML-Portfolio))*
+### 🎵 [AudioByte: Serverless Music Streaming Platform](https://github.com/sowndyjay)
+*React.js, AWS CDK, DynamoDB, S3, Lambda, GraphQL, Cognito*
+- Architected a cloud-native, serverless music streaming application supporting real-time playback and user authentication.
+- Provisioned infrastructure-as-code with **AWS CDK**, leveraging **S3** for asset storage, **DynamoDB** for metadata cataloging, and **AWS AppSync (GraphQL)** for low-latency delivery.
 
-## ✨ Other Projects: EasyDoc - Full-Stack Encrypted Healthcare Document Delivery
+---
 
-### Project Overview
+### 🏥 [EasyDoc: Secure Healthcare Document Delivery](https://github.com/sowndyjay/hellodoctor)
+*React.js, Node.js, Express.js, MongoDB*
+- Full-stack web application resolving decentralized medical record storage with encrypted document transfers between specialists.
 
-EasyDoc is a full-stack web application designed to solve the critical issue of decentralized medical document storage. By providing a secure, end-to-end encrypted platform, it enables patients to manage their healthcare documents efficiently and allows for seamless, secure delivery between different doctors and specialties.
+---
 
+## 💼 Industry Experience Snapshot
 
-### Technology Stack
+- **Software Engineer Co-Op | Fresenius Medical Care**
+  - Developed microservices in **Spring Boot** and **Apache Camel** processing automated medication workflows over **Apache Kafka** (95% JUnit test coverage).
+  - Designed markdown-driven personality alignment for enterprise LLM (AVA) via **Microsoft Teams AI SDK** & **Azure OpenAI**.
+  - Executed adversarial prompt-injection testing, uncovering and patching **10+ critical security vulnerabilities**.
 
-* **Languages**: JavaScript, HTML/CSS
-* **Backend**: Node.js, Express.js
-* **Frontend**: React.js
-* **Database**: MongoDB
-* **Tools**: Git
+---
 
+## 📬 Connect With Me
 
-**[Link to Full Project Repository]**
-Project Link: [https://github.com/sowndyjay/hellodoctor]
-
-
-
-## ✨ Other Projects: DNA Sequence Alignment
-
-### Project Overview
-
-This project implements a **C++ dynamic programming solution** to compute the edit distance between DNA sequences and reconstruct their optimal alignment. It's a foundational tool in bioinformatics for sequence comparison.
-
-### Technologies Used
-
-C++
-
-
-**[Link to Full Project Repository]**
-*((https://github.com/sowndyjay/dna-string-alignment))*
-
-
-
-
-
-
-<!--
-**sowndyjay/sowndyjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- Student at **UMass Lowell**
-- Currently studying **Computer Science**.
-- Fun Fact: I'm the photo boy
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email:** [sowndaryan21@gmail.com](mailto:sowndaryan21@gmail.com) / [Sowndaryan_Jayaprakashanand@student.uml.edu](mailto:Sowndaryan_Jayaprakashanand@student.uml.edu)
+- **LinkedIn:** [linkedin.com/in/sowndyjay](https://linkedin.com/in/sowndyjay)
+- **GitHub:** [github.com/sowndyjay](https://github.com/sowndyjay)
