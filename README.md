@@ -30,9 +30,6 @@
 * **State-of-the-Art Physical Validity**: Outperformed closed cloud baselines in physical validity benchmarks, reducing normalized collision rates by up to **39.5%** and out-of-bound errors by up to **25.0%**.
 * **Publication**: *Empirical Analysis of Multi-Floor 3D Scene Generation Using Open Weight Models* — Accepted to **IEEE MIT URTC Conference (Poster Track)**.
 
----
-
-
 ## 🔬 Featured Research & Publications
 
 ### 🏛️ [Empirical Analysis of Multi-Floor 3D Scene Generation Using Open-Weight Models]
