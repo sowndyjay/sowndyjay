@@ -24,7 +24,7 @@
 ## 🔬 Research & Academic Work
 
 ### Undergraduate Research Assistant — Machine Intelligence & Data Analytics Lab (MIDAS)
-*May 2024 – Present | Lowell, MA*[cite: 1]
+*May 2024 – Present | Lowell, MA*
 * **Funding & Focus**: Secured **$10k+ in research grants** to research scalable 3D synthetic data generation for Embodied AI.
 * **Local Pipeline Engineering (OWP)**: Built an open-source, local 3D scene generation pipeline based on MANSION, swapping out cloud APIs for local open-weight LLMs (Gemma-4 12B via Ollama) on consumer hardware for multi-floor spatial layout planning and 3D object assembly.
 * **State-of-the-Art Physical Validity**: Outperformed closed cloud baselines in physical validity benchmarks, reducing normalized collision rates by up to **39.5%** and out-of-bound errors by up to **25.0%**.
