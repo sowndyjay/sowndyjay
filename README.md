@@ -45,7 +45,7 @@
 
 ## 🚀 Highlighted Projects
 
-### 🎧 [Hearing Aid Background Noise Suppression Model](https://github.com/sowndyjay](https://github.com/BTTAI-9/Team-9)
+### 🎧 [Hearing Aid Background Noise Suppression Model](https://github.com/BTTAI-9/Team-9)
 *MATLAB, Keras, NumPy, Pandas*
 - Engineered a deep learning model to isolate speech and suppress background noise from hearing aid audio streams.
 - Converted raw audio waveforms into spectrograms using **Short-Time Fourier Transform (STFT)** and trained an optimized **hybrid CNN-LSTM architecture**.
@@ -53,7 +53,7 @@
 
 ---
 
-### 🎵 [AudioByte: Serverless Music Streaming Platform](https://github.com/sowndyjay](https://github.com/jwagojo/AudioByte)
+### 🎵 [AudioByte: Serverless Music Streaming Platform](https://github.com/jwagojo/AudioByte)
 *React.js, AWS CDK, DynamoDB, S3, Lambda, GraphQL, Cognito*
 - Architected a cloud-native, serverless music streaming application supporting real-time playback and user authentication.
 - Provisioned infrastructure-as-code with **AWS CDK**, leveraging **S3** for asset storage, **DynamoDB** for metadata cataloging, and **AWS AppSync (GraphQL)** for low-latency delivery.
